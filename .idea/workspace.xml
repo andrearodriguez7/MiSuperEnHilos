@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e212d509-6bd8-44e5-bb6a-72ad63addc1e" name="Changes" comment="Primer commit">
-      <change afterPath="$PROJECT_DIR$/src/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e212d509-6bd8-44e5-bb6a-72ad63addc1e" name="Changes" comment="Creación de la clase cliente" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731429930196</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creación de la clase cliente">
+      <option name="closed" value="true" />
+      <created>1731432626773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731432626773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,7 +102,8 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="Primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+    <MESSAGE value="Creación de la clase cliente" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de la clase cliente" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
