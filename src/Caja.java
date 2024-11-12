@@ -20,7 +20,7 @@ public class Caja {
         System.out.println("Tiempo total de " + cliente.getNombre() + " en " + nombreCaja + ": " + totalTime + " ms");
     }
 
-    // Método para poder procesar cada producto
+    // Método para poder procesar cada producto de todos los clientes
     private void procesarProducto(Cliente cliente, String producto) {
         long startTime = System.currentTimeMillis();
 
