@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e212d509-6bd8-44e5-bb6a-72ad63addc1e" name="Changes" comment="Creación de la clase caja" />
+    <list default="true" id="e212d509-6bd8-44e5-bb6a-72ad63addc1e" name="Changes" comment="Creación de la clase caja">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Supermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Supermercado.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +34,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -99,7 +104,39 @@
       <option name="project" value="LOCAL" />
       <updated>1731433801339</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creación de la clase caja">
+      <option name="closed" value="true" />
+      <created>1731433818603</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731433818603</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Creación de la clase caja">
+      <option name="closed" value="true" />
+      <created>1731433879203</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731433879203</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creación de la clase caja">
+      <option name="closed" value="true" />
+      <created>1731433938423</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731433938423</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Creación de la clase caja">
+      <option name="closed" value="true" />
+      <created>1731434063326</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731434063326</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,16 +158,5 @@
     <MESSAGE value="Creación de la clase cliente" />
     <MESSAGE value="Creación de la clase caja" />
     <option name="LAST_COMMIT_MESSAGE" value="Creación de la clase caja" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Supermercado.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
