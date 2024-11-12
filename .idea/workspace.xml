@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e212d509-6bd8-44e5-bb6a-72ad63addc1e" name="Changes" comment="Creación de la clase caja">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Supermercado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Supermercado.java" afterDir="false" />
-    </list>
+    <list default="true" id="e212d509-6bd8-44e5-bb6a-72ad63addc1e" name="Changes" comment="Creación de las clases" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +33,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.Supermercado.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -136,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731434063326</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Creación de las clases">
+      <option name="closed" value="true" />
+      <created>1731434502889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1731434502889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +163,7 @@
     <MESSAGE value="Primer commit" />
     <MESSAGE value="Creación de la clase cliente" />
     <MESSAGE value="Creación de la clase caja" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creación de la clase caja" />
+    <MESSAGE value="Creación de las clases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creación de las clases" />
   </component>
 </project>
