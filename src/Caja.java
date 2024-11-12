@@ -6,7 +6,7 @@ public class Caja {
         this.nombreCaja = nombreCaja;
     }
 
-    // Método para procesar a un cliente
+    // Método para poder procesar a un cliente
     public void atenderCliente(Cliente cliente) {
         this.initialTime = System.currentTimeMillis();
 
